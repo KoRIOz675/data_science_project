@@ -1,0 +1,26 @@
+QuestionID,Answer
+q1a,25
+q1b,0
+q2a,Beauvais (7.7°C)
+q2b,Nice (14.2°C)
+q2c,Brest (15.5°C)
+q2d,Ajaccio (22.5°C)
+q2e,Ajaccio (515.8 mm)
+q2f,Biarritz (1819.4 mm)
+q2g,Brest (1363.2 hours)
+q2h,Ajaccio (2854.5 hours)
+q3a,3.25
+q3b,4.32
+q3c,82209.53
+q3d,198650.13
+q4a,9.79
+q4b,9.2
+q4c,1.8
+q5a,1881.11
+q5b,1694.0
+q5c,445.7
+q6a,Maximum_temperature & Sunshine_duration (0.949)
+q6b,Rainfall & Sunshine_duration (-0.330)
+q6c,Minimum_temperature & Rainfall (-0.005)
+q8a,71.54
+q8b,24.93
